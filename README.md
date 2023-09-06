@@ -1,6 +1,6 @@
-- 👋 Hi, I’m kets
-- 👀 I’m interested in music
-- 🌱 I’m currently learning  nada  
+- 👋 Hi, I’m ketlyn
+- 👀 I’m interested in animais
+- 🌱 I’m currently learning  nothing
 -  - 📫 How to reach me andando
 <!---
 ketlynmaiara/ketlynmaiara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
